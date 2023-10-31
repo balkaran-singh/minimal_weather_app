@@ -1,20 +1,2 @@
-<<<<<<< HEAD
-# min_weather_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# minimal_weather_app
->>>>>>> d69b15a1341a0c48bcde406eb00e9ddc942ef59a
+# Minimal Weather App
+I developed a project using Flutter, a powerful framework for cross-platform applications. By applying basic API principles, I integrated weather information from a website into the application. This involved selecting a suitable API (OpenWeatherMap API), designing an intuitive UI, and utilizing Dart to process and display real-time weather data such as temperature and weather type. This project exemplified the seamless integration of Flutter with API technology for practical applications.
